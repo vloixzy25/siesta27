@@ -10,8 +10,8 @@ BOT SHARE POSTS FACEBOOK UNLIMITED
 
 ➠pip install mechanize 
 
-➠git clone https://github.com/P4HRUL/SHARE
+➠git clone https://github.com/vloixzy25/siesta27
 
-➠cd SHARE
+➠cd siesta27
 
-➠python SHARE.py
+➠python siesta27.py
